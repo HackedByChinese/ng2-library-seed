@@ -50,3 +50,7 @@ It assumes the following opinions:
 
     # Push to your repo
     git push origin
+
+## License
+
+MIT
