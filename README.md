@@ -21,7 +21,7 @@ It assumes the following opinions:
 **Note:** Node v4 or later is required.
 
     # Makes a shallow clone using the most recent revision and sets the remote name to `seed`
-    git clone --depth 1 -o seed https://github.com/HackedByChinese/ng2-library-seed.git my-project-name
+    git clone -o seed https://github.com/HackedByChinese/ng2-library-seed.git my-project-name
     cd my-project-name
 
     # Installs project dependencies
@@ -48,8 +48,8 @@ It assumes the following opinions:
     # Set the `origin` remote to your repository
     git remote add origin https://github.com/MyGitHubUserName/MyRepoName.git
 
-    # Push to your repo
-    git push origin
+    # Push to your repo and set it as the default upstream for master
+    git push -u origin master
 
 ## License
 
