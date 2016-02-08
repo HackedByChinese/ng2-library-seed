@@ -1,4 +1,6 @@
 # Introduction
+
+[![Join the chat at https://gitter.im/HackedByChinese/ng2-library-seed](https://badges.gitter.im/HackedByChinese/ng2-library-seed.svg)](https://gitter.im/HackedByChinese/ng2-library-seed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/HackedByChinese/ng2-library-seed.svg?branch=master)](https://travis-ci.org/HackedByChinese/ng2-library-seed)
 
 A seed for Angular2 library projects
